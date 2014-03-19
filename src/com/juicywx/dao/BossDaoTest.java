@@ -1,12 +1,9 @@
 package com.juicywx.dao;
 
+
 import static org.junit.Assert.*;
-
 import java.sql.SQLException;
-
 import org.junit.Test;
-
-import com.juicywx.beans.Boss;
 
 public class BossDaoTest {
 
